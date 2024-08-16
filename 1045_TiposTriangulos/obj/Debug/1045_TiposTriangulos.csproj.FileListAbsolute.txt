@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1045_TiposTriangulos\1045_TiposTriangulos\bin\Debug\1045_TiposTriangulos.exe.config
+C:\CURSOS\C#\projetos\1045_TiposTriangulos\1045_TiposTriangulos\bin\Debug\1045_TiposTriangulos.exe
+C:\CURSOS\C#\projetos\1045_TiposTriangulos\1045_TiposTriangulos\bin\Debug\1045_TiposTriangulos.pdb
+C:\CURSOS\C#\projetos\1045_TiposTriangulos\1045_TiposTriangulos\obj\Debug\1045_TiposTriangulos.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1045_TiposTriangulos\1045_TiposTriangulos\obj\Debug\1045_TiposTriangulos.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1045_TiposTriangulos\1045_TiposTriangulos\obj\Debug\1045_TiposTriangulos.exe
+C:\CURSOS\C#\projetos\1045_TiposTriangulos\1045_TiposTriangulos\obj\Debug\1045_TiposTriangulos.pdb
